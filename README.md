@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Karolina! 👋
+A passionate backend developer from Poland.
 
-<!--
-**KarolinaKleciak/KarolinaKleciak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## About Me
+- 🌱 I like programming, especially backend development.
+- 🚀 I enjoy creating interesting projects and exploring new programming technologies.
+- 👯 I’m looking to collaborate on open source projects.
+- ⚡ Interesting fact about me: I like visiting different countries in my free time. Walk on Polish mountain peaks.
+- 🔥 I love physical activity! You can often find me at the gym, where I try to stay in shape and improve my health. I love horse riding! It is not only a passion, but also a way to relax and contact with nature. But above all, I like 
+     programming
+- 📫 karolinakleciak2002@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- **Languages:** Java, C#, Python, C++, C, MySQL
+- **Technologies/Frameworks/Libraries:** .NET (Windows forms, ASP.NET), Docker, Maven, Hibernate (ORM), Java Spring, Spring Data JPA, Django (MVC)
+- **Known Software:** Visual Studio, IntelliJ IDEA, PyCharm, Code::Blocks, Git, GitHub, TortoiseGit, Bitbucket, MS Office
+
+## Connect with Me
+- [LinkedIn] (https://www.linkedin.com/in/karolina-kleciak-a67454297/)
+- [e-mail] (karolinakleciak2002@gmail.com )
+- [contact] (731005015)
+
+
+
